@@ -1,4 +1,10 @@
-2023/03/11-19:00:28.109 25c8 Reusing MANIFEST V:\User Data\Default\Local Storage\leveldb/MANIFEST-000001
-2023/03/11-19:00:28.120 25c8 Recovering log #11
-2023/03/11-19:00:28.120 25c8 Reusing old log V:\User Data\Default\Local Storage\leveldb/000011.log 
-2023/03/11-19:00:28.127 25c8 Delete type=0 #3
+2023/05/24-03:37:00.950 3 Recovering log #16
+2023/05/24-03:37:00.951 3 Level-0 table #20: started
+2023/05/24-03:37:00.957 3 Level-0 table #20: 5192 bytes OK
+2023/05/24-03:37:00.980 3 Delete type=2 #7
+2023/05/24-03:37:00.980 3 Delete type=2 #9
+2023/05/24-03:37:00.980 3 Delete type=2 #14
+2023/05/24-03:37:00.980 3 Delete type=0 #16
+2023/05/24-03:37:00.980 3 Delete type=3 #1
+2023/05/24-03:37:00.980 3 Delete type=0 #15
+2023/05/24-03:37:00.980 3 Delete type=2 #12

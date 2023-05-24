@@ -9,7 +9,7 @@
   "x-cdm-interface-versions": "10",
   "x-cdm-host-versions": "10",
   "x-cdm-codecs": "vp8,vp09,avc1,av01",
-  "x-cdm-persistent-license-support": true,
+  "x-cdm-persistent-license-support": false,
   "x-cdm-supported-encryption-schemes": [
     "cenc",
     "cbcs"
@@ -20,24 +20,14 @@
   },
   "platforms": [
     {
-      "os": "win",
+      "os": "linux",
       "arch": "x64",
-      "sub_package_path": "_platform_specific/win_x64/"
+      "sub_package_path": "_platform_specific/linux_x64/"
     },
     {
-      "os": "win",
-      "arch": "x86",
-      "sub_package_path": "_platform_specific/win_x86/"
-    },
-    {
-      "os": "win",
+      "os": "linux",
       "arch": "arm64",
-      "sub_package_path": "_platform_specific/win_arm64/"
+      "sub_package_path": "_platform_specific/linux_arm64/"
     }
-  ],
-  "accept_arch": [
-    "x64",
-    "x86_64",
-    "x86_64h"
   ]
 }

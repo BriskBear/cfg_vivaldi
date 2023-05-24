@@ -1,3 +1,5 @@
-2023/03/11-19:00:28.307 520 Reusing MANIFEST V:\User Data\Default\Storage\ext\mpognobbkildjkofajifpdfhcoklimli\def\IndexedDB\chrome-extension_mpognobbkildjkofajifpdfhcoklimli_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/11-19:00:28.312 520 Recovering log #3
-2023/03/11-19:00:28.313 520 Reusing old log V:\User Data\Default\Storage\ext\mpognobbkildjkofajifpdfhcoklimli\def\IndexedDB\chrome-extension_mpognobbkildjkofajifpdfhcoklimli_0.indexeddb.leveldb/000003.log 
+2023/05/24-03:37:01.317 3fd5 Recovering log #3
+2023/05/24-03:37:01.318 3fd5 Level-0 table #3: started
+2023/05/24-03:37:01.322 3fd5 Level-0 table #3: 21234 bytes OK
+2023/05/24-03:37:01.335 3fd5 Delete type=3 #1
+2023/05/24-03:37:01.335 3fd5 Delete type=0 #3

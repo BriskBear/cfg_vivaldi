@@ -1,3 +1,3 @@
-2023/03/11-19:00:56.393 35dc Reusing MANIFEST V:\User Data\Default\Sync Data\LevelDB/MANIFEST-000001
-2023/03/11-19:00:56.393 35dc Recovering log #3
-2023/03/11-19:00:56.393 35dc Reusing old log V:\User Data\Default\Sync Data\LevelDB/000003.log 
+2023/05/24-03:38:19.562 42a3 Reusing MANIFEST /home/deftclaw/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000002
+2023/05/24-03:38:19.562 42a3 Recovering log #4
+2023/05/24-03:38:19.562 42a3 Reusing old log /home/deftclaw/.config/vivaldi/Default/Sync Data/LevelDB/000004.log 

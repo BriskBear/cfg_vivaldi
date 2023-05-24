@@ -1,3 +1,5 @@
-2023/03/11-19:00:28.059 188c Reusing MANIFEST V:\User Data\Default\Service Worker\Database/MANIFEST-000001
-2023/03/11-19:00:28.065 188c Recovering log #3
-2023/03/11-19:00:28.065 188c Reusing old log V:\User Data\Default\Service Worker\Database/000003.log 
+2023/05/24-03:37:00.982 3fd4 Recovering log #3
+2023/05/24-03:37:00.982 3fd4 Level-0 table #3: started
+2023/05/24-03:37:00.989 3fd4 Level-0 table #3: 295 bytes OK
+2023/05/24-03:37:01.009 3fd4 Delete type=3 #1
+2023/05/24-03:37:01.009 3fd4 Delete type=0 #3

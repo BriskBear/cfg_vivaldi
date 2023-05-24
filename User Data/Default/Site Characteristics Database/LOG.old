@@ -1,3 +1,5 @@
-2023/03/11-19:00:28.017 1408 Reusing MANIFEST V:\User Data\Default\Site Characteristics Database/MANIFEST-000001
-2023/03/11-19:00:28.023 1408 Recovering log #3
-2023/03/11-19:00:28.023 1408 Reusing old log V:\User Data\Default\Site Characteristics Database/000003.log 
+2023/05/24-03:37:00.947 3fd4 Recovering log #3
+2023/05/24-03:37:00.947 3fd4 Level-0 table #3: started
+2023/05/24-03:37:00.952 3fd4 Level-0 table #3: 1322 bytes OK
+2023/05/24-03:37:00.972 3fd4 Delete type=3 #1
+2023/05/24-03:37:00.972 3fd4 Delete type=0 #3

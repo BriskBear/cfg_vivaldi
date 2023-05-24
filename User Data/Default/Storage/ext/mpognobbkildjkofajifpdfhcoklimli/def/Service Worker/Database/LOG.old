@@ -1,3 +1,5 @@
-2023/03/11-19:00:28.060 3164 Reusing MANIFEST V:\User Data\Default\Storage\ext\mpognobbkildjkofajifpdfhcoklimli\def\Service Worker\Database/MANIFEST-000001
-2023/03/11-19:00:28.065 3164 Recovering log #3
-2023/03/11-19:00:28.066 3164 Reusing old log V:\User Data\Default\Storage\ext\mpognobbkildjkofajifpdfhcoklimli\def\Service Worker\Database/000003.log 
+2023/05/24-03:37:00.987 3fe7 Recovering log #3
+2023/05/24-03:37:00.987 3fe7 Level-0 table #3: started
+2023/05/24-03:37:00.993 3fe7 Level-0 table #3: 698 bytes OK
+2023/05/24-03:37:01.013 3fe7 Delete type=3 #1
+2023/05/24-03:37:01.013 3fe7 Delete type=0 #3

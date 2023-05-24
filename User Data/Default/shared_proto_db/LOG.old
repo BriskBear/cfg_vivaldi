@@ -1,3 +1,5 @@
-2023/03/11-19:00:28.071 2598 Reusing MANIFEST V:\User Data\Default\shared_proto_db/MANIFEST-000001
-2023/03/11-19:00:28.076 2598 Recovering log #3
-2023/03/11-19:00:28.077 2598 Reusing old log V:\User Data\Default\shared_proto_db/000003.log 
+2023/05/24-03:37:01.011 3fd6 Recovering log #3
+2023/05/24-03:37:01.011 3fd6 Level-0 table #3: started
+2023/05/24-03:37:01.017 3fd6 Level-0 table #3: 903 bytes OK
+2023/05/24-03:37:01.027 3fd6 Delete type=3 #1
+2023/05/24-03:37:01.027 3fd6 Delete type=0 #3
